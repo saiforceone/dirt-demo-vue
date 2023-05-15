@@ -1,0 +1,11 @@
+{
+  "projectConfig": {
+    "projectName": "dirt_demo_vue",
+    "frontend": "vue",
+    "withStorybook": true,
+    "installPrettier": true,
+    "initializeGit": true,
+    "deploymentOption": "Vercel",
+    "verboseLogs": false
+  }
+}
