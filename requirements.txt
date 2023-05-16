@@ -8,4 +8,4 @@ idna==3.4 ; python_version >= '3.5'
 inertia-django==0.5.2
 requests==2.30.0 ; python_version >= '3.7'
 sqlparse==0.4.4 ; python_version >= '3.5'
-urllib3==2.0.2 ; python_version >= '3.7'
+urllib3==1.26.15

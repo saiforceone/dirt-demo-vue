@@ -7,6 +7,7 @@ name = "pypi"
 django = "==4.1"
 django-vite = "==2.0.2"
 inertia-django = "==0.5.2"
+urllib3 = "==1.26.15"
 
 [dev-packages]
 
