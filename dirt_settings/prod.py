@@ -7,7 +7,7 @@ print('Loaded with production configuration...')
 # You may add to or overwrite ALLOWED_HOSTS below.
 # For example, you could add a host to the list without overwriting by doing the following
 # ALLOWED_HOSTS += ['127.0.0.1']
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', '.vercel.app']
 
 # By default, in production, DEBUG is to be False
 DEBUG = False
