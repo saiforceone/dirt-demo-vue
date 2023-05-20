@@ -4,7 +4,7 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "vercel-build": "npm run vite-build && npm run tailwind",
+    "build": "npm run vite-build && npm run tailwind",
     "vite-build": "vite build",
     "vite-dev": "vite",
     "tailwind": "tailwindcss -i ./static/css/main.css -o ./static/dist/css/app.css",
