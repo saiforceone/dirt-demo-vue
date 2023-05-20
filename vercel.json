@@ -1,4 +1,5 @@
 {
+  "buildCommand": "npm run vercel-build",
   "builds": [
     {
       "src": "dirt_demo_vue/wsgi.py",
